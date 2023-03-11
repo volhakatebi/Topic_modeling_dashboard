@@ -3,5 +3,5 @@ RShiny Dashboard to visualize topic modeling findings in a user-friendly way. Th
 
 The dashboard allows users to select multiple topics and contains the following tabs:
 * **A bar graph** showing representative words for the selected topic(s)
-* Counts and relative volume of the documents per topic over time
-* Most representative documents for each topic
+* **Topic Trends over time:** counts and relative volume of the documents per topic over time
+* **Most representative documents** for each topic
